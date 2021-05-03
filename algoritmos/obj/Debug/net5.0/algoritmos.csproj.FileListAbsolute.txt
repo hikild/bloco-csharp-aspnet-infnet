@@ -1,0 +1,16 @@
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.csprojAssemblyReference.cache
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.AssemblyInfoInputs.cache
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.AssemblyInfo.cs
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.exe
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.deps.json
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.runtimeconfig.json
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.runtimeconfig.dev.json
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.dll
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\ref\algoritmos.dll
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\bin\Debug\net5.0\algoritmos.pdb
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.dll
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\ref\algoritmos.dll
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.pdb
+C:\Users\kin-v\OneDrive\Área de Trabalho\infnet\algoritmos\obj\Debug\net5.0\algoritmos.genruntimeconfig.cache
